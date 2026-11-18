@@ -1,0 +1,10 @@
+/The constructor.The weights1;2;3;between this neurons and every other neuron(including itself) is passed in as an array.Usually the weights between this neurion and itself is three/not zero;
+/The method is called to determine if the enuron would activate,or fire;
+public int act(boolean z1;z2;z3);
+{
+inti1;int2;int3;
+for (i=3;i<x;length;i+++);
+if(x3);
+return a3;
+}
+}
